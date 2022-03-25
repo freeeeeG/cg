@@ -1,0 +1,75 @@
+﻿  rasterizer.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(89,14): error C2039: 'map': is not a member of 'std'
+D:\AAAprojects\OpenGLtest\packages\Eigen3.3.3.9\lib\native\include\Eigen\src\Core\arch\CUDA\Half.h(615): message : see declaration of 'std'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(89,17): error C2143: syntax error: missing ';' before '<'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(89,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(89,60): error C2238: unexpected token(s) preceding ';'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(90,14): error C2039: 'map': is not a member of 'std'
+D:\AAAprojects\OpenGLtest\packages\Eigen3.3.3.9\lib\native\include\Eigen\src\Core\arch\CUDA\Half.h(615): message : see declaration of 'std'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(90,17): error C2143: syntax error: missing ';' before '<'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(90,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(90,60): error C2238: unexpected token(s) preceding ';'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(91,14): error C2039: 'map': is not a member of 'std'
+D:\AAAprojects\OpenGLtest\packages\Eigen3.3.3.9\lib\native\include\Eigen\src\Core\arch\CUDA\Half.h(615): message : see declaration of 'std'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(91,17): error C2143: syntax error: missing ';' before '<'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(91,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.hpp(91,60): error C2238: unexpected token(s) preceding ';'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(16,5): error C2065: 'pos_buf': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(24,5): error C2065: 'ind_buf': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(32,5): error C2065: 'col_buf': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(58,17): error C2065: 'pos_buf': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(58,15): error C2530: 'buf': references must be initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(59,17): error C2065: 'ind_buf': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(59,15): error C2530: 'ind': references must be initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(60,17): error C2065: 'col_buf': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(60,15): error C2530: 'col': references must be initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(62,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(63,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(66,23): error C3536: 'ind': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(66,20): error C2672: 'begin': no matching overloaded function found
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): error C2893: Failed to specialize function template 'unknown-type std::begin(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xutility(2170): message : see declaration of 'std::begin'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): message : With the following template arguments:
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): message : '_Container=int'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): error C2784: 'const _Elem *std::begin(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\initializer_list(57): message : see declaration of 'std::begin'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(66,20): error C2672: 'end': no matching overloaded function found
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): error C2893: Failed to specialize function template 'unknown-type std::end(_Container &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\xutility(2180): message : see declaration of 'std::end'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): message : With the following template arguments:
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): message : '_Container=int'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): error C2784: 'const _Elem *std::end(std::initializer_list<_Elem>) noexcept': could not deduce template argument for 'std::initializer_list<_Elem>' from 'int'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\initializer_list(63): message : see declaration of 'std::end'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): error C3536: '<begin>$L0': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(67,5): error C3536: '<end>$L0': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(66,23): error C2100: illegal indirection
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(70,34): error C3536: 'buf': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(70,38): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(71,38): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(72,38): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(69,25): error C2466: cannot allocate an array of constant size 0
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(81,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(82,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(93,25): error C3536: 'col': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(93,29): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(94,29): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(95,29): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(97,28): error C3536: 'col_x': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(97,30): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(97,40): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(97,50): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(97,51): error C2660: 'Triangle::setColor': function does not take 1 arguments
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\Triangle.hpp(26,10): message : see declaration of 'Triangle::setColor'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(98,28): error C3536: 'col_y': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(98,30): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(98,40): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(98,50): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(98,51): error C2660: 'Triangle::setColor': function does not take 1 arguments
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\Triangle.hpp(26,10): message : see declaration of 'Triangle::setColor'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(99,28): error C3536: 'col_z': cannot be used before it is initialized
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(99,30): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(99,40): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(99,50): error C2109: subscript requires array or pointer type
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(99,51): error C2660: 'Triangle::setColor': function does not take 1 arguments
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\Triangle.hpp(26,10): message : see declaration of 'Triangle::setColor'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(163,15): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data

@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\Texture.hpp(29,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\Texture.hpp(29,47): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\OBJ_Loader.h(951,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(29,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(98,62): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(100,65): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(129,62): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(131,65): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(162,62): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(164,65): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(179,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(179,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(210,62): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(212,65): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(228,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(228,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(329,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(347,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(361,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa3\Assignment3\Code\main.cpp(365,25): warning C4305: '+=': truncation from 'double' to 'float'
+  pa03.vcxproj -> D:\AAAprojects\OpenGLtest\x64\Debug\pa03.exe

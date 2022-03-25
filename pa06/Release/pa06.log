@@ -1,0 +1,139 @@
+﻿  BVH.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(19,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(21,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(45,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(22,65): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(96,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(97,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(98,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(99,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(100,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(101,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,12): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,39): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,56): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.cpp(34,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.cpp(45,42): error C2955: 'std::vector': use of class template requires template argument list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(416): message : see declaration of 'std::vector'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.cpp(46,43): error C2955: 'std::vector': use of class template requires template argument list
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\vector(416): message : see declaration of 'std::vector'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.cpp(53,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.cpp(108,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.cpp(108,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.cpp(108,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(19,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(21,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(45,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(22,65): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(96,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(97,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(98,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(99,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(100,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(101,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,12): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,39): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,56): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Scene.hpp(23,30): warning C4305: 'argument': truncation from 'double' to 'float'
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(211,14): error C2039: 'optional': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\fstream(26): message : see declaration of 'std'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(211,22): error C2143: syntax error: missing ';' before '<'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(211,22): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(211,45): error C2238: unexpected token(s) preceding ';'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(201,13): error C2065: 'MeshMaterial': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(201,33): error C2039: 'nullopt': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\fstream(26): message : see declaration of 'std'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(201,1): error C2065: 'nullopt': undeclared identifier
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(648,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(685,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(691,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(695,41): error C2039: 'MeshMaterial': is not a member of 'objl::Mesh'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(189): message : see declaration of 'objl::Mesh'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\OBJ_Loader.hpp(945,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Triangle.hpp(92,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Triangle.hpp(112,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Triangle.hpp(172,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Triangle.hpp(174,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Triangle.hpp(175,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Renderer.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(19,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(21,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(45,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(22,65): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(96,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(97,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(98,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(99,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(100,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(101,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,12): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,39): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,56): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Scene.hpp(23,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(10,60): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(12,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(21,41): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(25,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(26,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(28,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(30,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Renderer.cpp(45,16): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Scene.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(19,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(21,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\global.hpp(45,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(16,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Ray.hpp(22,65): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(20,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(21,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(96,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(97,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(98,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(99,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(100,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Bounds3.hpp(101,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,12): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,23): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,39): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\BVH.hpp(23,56): error C7525: inline variables require at least '/std:c++17'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Scene.hpp(23,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa6\PA6\Assignment6\Scene.cpp(133,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Vector.cpp

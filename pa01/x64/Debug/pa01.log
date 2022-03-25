@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(29,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(50,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(105,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(121,62): warning C4305: 'argument': truncation from 'double' to 'float'
+  pa01.vcxproj -> D:\AAAprojects\OpenGLtest\x64\Debug\pa01.exe

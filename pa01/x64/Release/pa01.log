@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(29,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(50,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(105,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\main.cpp(121,62): warning C4305: 'argument': truncation from 'double' to 'float'
+  rasterizer.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(41,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(42,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(43,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(44,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(52,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(53,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(54,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(58,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(59,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(60,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(62,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(62,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(84,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(84,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(92,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(93,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(94,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(98,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(99,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(100,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(102,52): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(102,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(124,56): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(124,53): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(144,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(145,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(164,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(165,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\rasterizer.cpp(235,15): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Triangle.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\Triangle.cpp(36,70): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\Triangle.cpp(36,53): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa1\pa1\Triangle.cpp(36,36): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+LINK : fatal error LNK1181: cannot open input file 'opencv_worldd453.lib'

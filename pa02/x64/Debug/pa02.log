@@ -1,0 +1,16 @@
+﻿  rasterizer.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(77,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(78,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(96,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(97,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(124,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(125,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(126,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(127,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(135,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(135,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(136,36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(143,43): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(143,40): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa2\代码框架\rasterizer.cpp(199,15): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  pa02.vcxproj -> D:\AAAprojects\OpenGLtest\x64\Debug\pa02.exe

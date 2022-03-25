@@ -1,0 +1,53 @@
+﻿  Renderer.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(22,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(55,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Object.hpp(16,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Object.hpp(16,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Scene.hpp(16,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Scene.hpp(19,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Renderer.cpp(8,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Renderer.cpp(215,46): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+  Scene.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(22,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(55,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Object.hpp(16,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Object.hpp(16,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Scene.hpp(16,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Scene.hpp(19,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  main.cpp
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(22,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(25,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\global.hpp(55,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Object.hpp(16,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Object.hpp(16,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Scene.hpp(16,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Scene.hpp(19,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Triangle.hpp(96,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\Triangle.hpp(97,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\main.cpp(16,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\memory(3580,56): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\main.cpp(14): message : see reference to function template instantiation 'std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,int,0>(Vector3f &&,int &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\memory(3580,56): warning C4244: 'argument': conversion from '_Ty' to 'const float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\main.cpp(18): message : see reference to function template instantiation 'std::unique_ptr<Sphere,std::default_delete<Sphere>> std::make_unique<Sphere,Vector3f,double,0>(Vector3f &&,double &&)' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910\include\memory(3580,56): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\freeeeeG\Desktop\Games101\pa5\Code\main.cpp(34): message : see reference to function template instantiation 'std::unique_ptr<Light,std::default_delete<Light>> std::make_unique<Light,Vector3f,double,0>(Vector3f &&,double &&)' being compiled
+  Generating code
+  2 of 357 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pa05.vcxproj -> D:\AAAprojects\OpenGLtest\x64\Release\pa05.exe
